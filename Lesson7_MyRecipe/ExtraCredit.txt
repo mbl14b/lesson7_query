@@ -1,0 +1,7 @@
+/*
+Program Name: Recipe Display Application
+Author: Madison Levine
+Date: March 27th 2017
+*/
+
+What I did for my cookie recipe: I decided to create a new parameter and a new function event. Here I was working on the interactivity. I decided to create interactivity when clicking on the h3 elements. I also really liked the fade in method and how it flowed really well so I used that and made it fast. Then I created event listeners for the h3 elements to call the display function. I really liked how this looked very clean and as well added to the flow. The material just faded in and looks very clean.Then for the animation I decided to create custom animations to toggle when a user selects the h3 element.I chose to use a quick toggle so the information showed up a little faster. Then for my hover, I decided to choose a spirited color scheme, because..Go Noles!
